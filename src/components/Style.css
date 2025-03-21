@@ -1,0 +1,75 @@
+.input-field {
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 1.7rem;
+    width: 40%;
+
+}
+
+.btn-field {
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 1.7rem;
+    cursor: pointer;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    gap: 20rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+
+
+}
+
+
+.tittle-div {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+
+
+}
+
+.content {
+    margin-top: 1rem;
+    min-width: 650px;
+    padding: 1rem;
+}
+
+.search {
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 1.7rem;
+    width: 73%;
+    height: 3.4rem;
+    font-size: 1rem;
+}
+
+.cards-div {
+    border: 1px solid;
+    max-width: 70%;
+    padding: 1rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+    border-radius: 2rem;
+}
+
+.card {
+    border: 1px solid;
+    border-radius: 2rem;
+}
+
+.btn-paste {
+    display: flex;
+    flex-direction: row;
+    gap: 4;
+    justify-content: space-evenly;
+}
